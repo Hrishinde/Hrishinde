@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Hrishinde
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on more projects
 
 ## Connect with Me
